@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value🖐️ used
+  - identifier 
+  - variable🖐️ used
+  - constant🖐️ used
   - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
+  - literal👂 heard
+  - expression👂 heard
+  - heap👂 heard
+  - function👂 heard
+  - procedure👂 heard
+  - method👂 heard
+  - class 🖐️ used
+  - prototype👂 heard
+  - event👂 heard
+  - type👂 heard
+  - primitive types👂 heard
+  - reference types👂 heard
+  - flag👂 heard
+  - lexical scope👂 heard
+  - code block👂 heard
+  - conditions👂 heard
+  - loops👂 heard
   - assignment
   - regular expression
   - interface
   - contract
-  - module
+  - module👂 heard
   - call stack
 - Functions
-  - signature
+  - signature👂 heard
   - argument
   - parameter
   - pure function
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git🖐️ used
+  - github🖐️ used
